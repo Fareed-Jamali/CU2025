@@ -25,12 +25,12 @@ The list of the devices with their details follows.
 | 13  | EC:64:C9:E2:A7:84  | Smart Lock Gateway  | G2  | 1 of 1  |
 | 14  | 2C:AA:8E:24:7C:59  | Wyze Camera Pan  | WYZECP1  | 1 of 1  |
 | 15  | 50:13:95:B5:FC:20  | YI 1080p Home Camera  | YYS.2016  | 1 of 1  |
-| 16  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 17  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 18  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 19  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 20  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 21  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 16  | A4:86:DB:5C:1F:D1  | Wifi Smart Camera  | T-CP8082LF-W3M  | 1 of 2  |
+| 17  | A4:86:DB:59:B6:C2  | WiFi Smart Camera  | T-CP8082LF-W3M  | 2 of 2  |
+| 18  | A4:86:DB:84:DB:4C  | WiFi Smart Camera  | T-CP8050LF-W3M  | 1 of 2  |
+| 19  | A4:86:DB:84:DB:86  | WiFi Smart Camera  | T-CP8050LF-W3M  | 2 of 2  |
+| 20  | 10:D5:61:05:AC:29  | Treat Life WiFi Smart Light  | SL20  | 1 of 2  |
+| 21  | 10:D5:61:05:E8:04  | Treat Life WiFi Smart Light  | SL20  | 2 of 2  |
 | 22  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | 23  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | 24  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
