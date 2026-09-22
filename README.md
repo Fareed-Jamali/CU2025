@@ -11,11 +11,11 @@ The list of the devices with their details follows.
 | Sr.  | MAC Address | Device Name | Device Model | Device Instance |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1  | 08:12:A5:E0:5F:36  | Amazon Echo Dot (3rd Gen)  | C78MP8  | 1 of 1 |
-| 2  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 3  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 4  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 5  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 6  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 2  | 18:7F:88:D4:C3:62  | Ring Battery Doorbell  | 5F97F2  | 1 of 1  |
+| 3  | E8:4C:4A:B7:1B:DB  | Blink Video Doorbell  | BDM00200U  | 1 of 1  |
+| 4  | DC:A0:D0:E1:AC:68  | Blink Outdoor Camera  | BCM00500U  | 1 of 1  |
+| 5  | 68:13:F3:5E:E0:0A  | Blink Sync Module  | BSM00401U  | 1 of 1  |
+| 6  | 5C:47:5E:90:26:06  | Chime Ring  | 5F67E9  | 1 of 1  |
 | 7  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | 8  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | 9  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
