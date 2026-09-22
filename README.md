@@ -4,7 +4,7 @@
 
 The **CU2025 Dataset** contains network traffic collected from 27 IoT devices.
 
-(CU2025_Dataset.png)
+![System Architecture](CU2025_Dataset.png)
 
 ## Dataset Download
 
