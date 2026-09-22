@@ -46,12 +46,12 @@ This can be useful for machine learning and classification tasks where each netw
 
 The recommended workflow is:
 
-Download the dataset using the link provided in CU2025_PCAP.txt.
+1. Download the dataset using the link provided in CU2025_PCAP.txt.
 
-Extract the downloaded ZIP file.
+2. Extract the downloaded ZIP file.
 
-Use combine code.py to combine multiple PCAP files into a single PCAP file for each device.
+3. Use combine code.py to combine multiple PCAP files into a single PCAP file for each device.
 
-Use Scapy.py to convert the PCAP files into CSV files and extract the required network features.
+4. Use Scapy.py to convert the PCAP files into CSV files and extract the required network features.
 
-Use label.py to add device labels if required.
+5. Use label.py to add device labels if required.
