@@ -15,4 +15,4 @@ After downloading the ZIP file, you will find that the traffic for each device i
 To combine the PCAP files for a device into a single PCAP file, you can use the following script:
 
 ```bash
-python "combine code.py"
+python "combinecode.py"
