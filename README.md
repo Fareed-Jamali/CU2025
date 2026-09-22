@@ -63,7 +63,7 @@ The recommended workflow is:
 | ['CU2025_PCAP.txt'](CU2025_PCAP.txt)    | Contains the download link for the CU2025 Dataset  |
 | ['combinecode.py'](combinecode.py)     | Combines multiple PCAP files into a single PCAP file  |
 | ['Scapy.py'](Scapy.py)            | Converts PCAP files to CSV and extracts network traffic features  |
-| ['Label.py'](label.py)            | Adds labels corresponding to the IoT devices  |
+| ['Label.py'](Label.py)            | Adds labels corresponding to the IoT devices  |
 
 ## Note
 * The feature extraction process in [`Scapy.py`](Scapy.py) can be customized depending on the requirements of your research or analysis.
