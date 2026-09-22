@@ -104,4 +104,11 @@ The recommended workflow is:
 * The labeling step is optional and can be performed if device-level labels are required.
 * Make sure the required Python dependencies are installed before running the scripts.
 
+  ## Citation
+  Please cite the following in your reference.
+
+  ```bash
+  Jamali, A.F., 2025. A Framework for Scalable Dataset Generation and Deep Learning-Based IoT Device Identification: Redefining the Future Paradigm (Masters dissertation, Concordia University).
+  ```
+
 
