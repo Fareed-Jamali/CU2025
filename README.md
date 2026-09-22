@@ -15,7 +15,7 @@ After downloading the ZIP file, you will find that the traffic for each device i
 To combine the PCAP files for a device into a single PCAP file, you can use the following script:
 
 ```bash
-python "combinecode.py"
+python combinecode.py
 ```
 The script combines the individual PCAP files and generates a single output file named **merged_output**.
 
@@ -27,7 +27,7 @@ For this purpose, you can use:
 
 
 ```bash
-python "Scapy.py"
+python Scapy.py
 ```
 
 Depending on your requirements, you may need to modify Scapy.py to extract additional features or customize the features included in the resulting CSV files.
@@ -37,7 +37,7 @@ Depending on your requirements, you may need to modify Scapy.py to extract addit
 If you would like to add labels corresponding to the IoT devices to the extracted data, you can use:
 
 ```bash
-python "label.py"
+python label.py
 ```
 
 This can be useful for machine learning and classification tasks where each network traffic record needs to be associated with its corresponding IoT device.
