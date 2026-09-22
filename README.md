@@ -2,7 +2,9 @@
 
 ## Concordia University IoT Devices Dataset
 
-The **CU2025 Dataset** contains network traffic collected from IoT devices at Concordia University.
+The **CU2025 Dataset** contains network traffic collected from 27 IoT devices.
+
+![System Architecture](CU2025_Dataset.png)
 
 ## Dataset Download
 
