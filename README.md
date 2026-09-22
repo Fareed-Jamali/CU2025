@@ -116,3 +116,9 @@ Please cite the following in your reference.
 ```bash
 Jamali, A.F., 2025. A Framework for Scalable Dataset Generation and Deep Learning-Based IoT Device Identification: Redefining the Future Paradigm (Masters dissertation, Concordia University).
 ```
+
+and 
+
+```bash
+Jamali, A.F., Rostami, D. and Fung, C., 2025, September. IoT Device Identification using Deep Learning. In 2025 16th International Conference on Network of the Future (NoF) (pp. 46-54). IEEE.
+```
