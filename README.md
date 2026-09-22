@@ -10,33 +10,33 @@ The list of the devices with their details follows.
 
 | Sr.  | MAC Address | Device Name | Device Model | Device Instance |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1  | 08:12:A5:E0:5F:36  | Amazon Echo Dot (3rd Gen)  | C78MP8  | 1 of 1
-| 2  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 3  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 4  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 5  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 6  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 7  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 8  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 9  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 10  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 11  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 12  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 13  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 14  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 15  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 16  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 17  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 18  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 19  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 20  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 21  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 22  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 23  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 24  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 25  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 26  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 27  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 1  | 08:12:A5:E0:5F:36  | Amazon Echo Dot (3rd Gen)  | C78MP8  | 1 of 1 |
+| 2  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 3  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 4  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 5  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 6  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 7  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 8  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 9  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 10  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 11  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 12  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 13  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 14  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 15  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 16  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 17  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 18  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 19  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 20  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 21  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 22  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 23  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 24  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 25  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 26  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 27  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 ## Dataset Download
 
