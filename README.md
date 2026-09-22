@@ -55,3 +55,11 @@ The recommended workflow is:
 4. Use Scapy.py to convert the PCAP files into CSV files and extract the required network features.
 
 5. Use label.py to add device labels if required.
+
+## Files
+
+File	Description
+CU2025_PCAP.txt	Contains the download link for the CU2025 Dataset
+combine code.py	Combines multiple PCAP files into a single PCAP file
+Scapy.py	Converts PCAP files to CSV and extracts network traffic features
+label.py	Adds labels corresponding to the IoT devices
