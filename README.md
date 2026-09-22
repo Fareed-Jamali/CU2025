@@ -16,10 +16,10 @@ The list of the devices with their details follows.
 | 4  | DC:A0:D0:E1:AC:68  | Blink Outdoor Camera  | BCM00500U  | 1 of 1  |
 | 5  | 68:13:F3:5E:E0:0A  | Blink Sync Module  | BSM00401U  | 1 of 1  |
 | 6  | 5C:47:5E:90:26:06  | Chime Ring  | 5F67E9  | 1 of 1  |
-| 7  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 8  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 9  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 10  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 7  | 1C:53:F9:CE:28:CD  | Google Nest Hub  | GUIK2  | 1 of 1  |
+| 8  | 9C:C8:E9:82:95:31  | Amazon Echo Pop  | C2H4R9  | 1 of 1  |
+| 9  | BC:DF:58:0A:CA:54  | Google Nest Mini (2nd Gen)  | H2C  | 1 of 1  |
+| 10  | 60:74:F4:BB:B2:8E  | Goove Life Thermo-Hygrometer  | H5103  | 1 of 1  |
 | 11  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | 12  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | 13  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
