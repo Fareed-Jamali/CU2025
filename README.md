@@ -8,7 +8,7 @@ The **CU2025 Dataset** contains network traffic collected from 27 IoT devices.
 
 The list of the devices with their details follows.
 
-| Sr.  | MAC Address | Device Names | Device Model | Device Instance |
+| Sr.  | MAC Address | Device Name | Device Model | Device Instance |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1  | 08:12:A5:E0:5F:36  | Amazon Echo Dot (3rd Gen)  | C78MP8  | 1 of 1
 | 2  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
