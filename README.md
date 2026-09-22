@@ -67,4 +67,7 @@ The recommended workflow is:
 
 ## Note
 * The feature extraction process in [`Scapy.py`](Scapy.py) can be customized depending on the requirements of your research or analysis.
+* The labeling step is optional and can be performed if device-level labels are required.
+* Make sure the required Python dependencies are installed before running the scripts.
+
 
