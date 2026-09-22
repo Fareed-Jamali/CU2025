@@ -20,10 +20,10 @@ The list of the devices with their details follows.
 | 8  | 9C:C8:E9:82:95:31  | Amazon Echo Pop  | C2H4R9  | 1 of 1  |
 | 9  | BC:DF:58:0A:CA:54  | Google Nest Mini (2nd Gen)  | H2C  | 1 of 1  |
 | 10  | 60:74:F4:BB:B2:8E  | Goove Life Thermo-Hygrometer  | H5103  | 1 of 1  |
-| 11  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 12  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 13  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 14  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 11  | C4:82:E1:25:0A:2A  | Rain Point WiFi Water Timer  | TWG004WRF  | 1 of 1  |
+| 12  | AC:9F:C3:38:BF:58  | Ring StickUp Camera  | 5UM7E5  | 1 of 1  |
+| 13  | EC:64:C9:E2:A7:84  | Smart Lock Gateway  | G2  | 1 of 1  |
+| 14  | 2C:AA:8E:24:7C:59  | Wyze Camera Pan  | WYZECP1  | 1 of 1  |
 | 15  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | 16  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | 17  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
