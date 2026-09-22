@@ -42,6 +42,12 @@ The list of the devices with their details follows.
 
 You can download the **CU2025 Dataset** using the link provided in [`CU2025_PCAP.txt`](CU2025_PCAP.txt).
 
+## Environment Creation
+
+Once the dataset has been downloaded, you can create a virtual environment or use whatever environment setup works best for your workflow. The [`requirements.txt`](requirements.txt) file lists the dependencies required by another repository.
+
+Please note that the original environment from which this code was obtained contained several additional dependencies and pieces of code that are not included in this repository. As a result, you may need to inspect the code and requirements.txt and install only the dependencies required to run the components you intend to use.
+
 ## Combining PCAP Files
 
 After downloading the ZIP file, you will find that the traffic for each device is distributed across multiple PCAP files.
