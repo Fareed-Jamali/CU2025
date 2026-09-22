@@ -64,3 +64,7 @@ The recommended workflow is:
 | combine code.py     | Combines multiple PCAP files into a single PCAP file  |
 | Scapy.py            | Converts PCAP files to CSV and extracts network traffic features  |
 | label.py            | Adds labels corresponding to the IoT devices  |
+
+## Note
+* The feature extraction process in [`Scapy.py`](Scapy.py) can be customized depending on the requirements of your research or analysis.
+
