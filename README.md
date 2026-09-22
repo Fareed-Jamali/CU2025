@@ -31,12 +31,12 @@ The list of the devices with their details follows.
 | 19  | A4:86:DB:84:DB:86  | WiFi Smart Camera  | T-CP8050LF-W3M  | 2 of 2  |
 | 20  | 10:D5:61:05:AC:29  | Treat Life WiFi Smart Light  | SL20  | 1 of 2  |
 | 21  | 10:D5:61:05:E8:04  | Treat Life WiFi Smart Light  | SL20  | 2 of 2  |
-| 22  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 23  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 24  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 25  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 26  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| 27  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 22  | 20:23:51:9A:C1:17  | Kasa Smart WiFi Plug  | HS103  | 1 of 2  |
+| 23  | 20:23:51:9A:BE:7A  | Kasa Smart WiFi Plug  | HS103  | 2 of 2  |
+| 24  | 9C:C8:E9:C2:89:76  | Camera Blink Mini 2  | BCM00700U  | 1 of 2  |
+| 25  | 68:13:F3:1D:02:11  | Camera Blink Mini 2  | BCM00700U  | 2 of 2  |
+| 26  | 3C:64:CF:BE:EC:C2  | Tapo Pan/Tilt Home Security WiFi Camera  | Tapo C210  | 1 of 2  |
+| 27  | 3C:64:CF:BE:ED:F9  | Tapo Pan/Tilt Home Security WiFi Camera  | Tapo C210  | 2 of 2  |
 
 ## Dataset Download
 
