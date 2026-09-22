@@ -28,10 +28,10 @@ def get_first_timestamp(pcap_path):
         print(f" Failed to read {pcap_path}: {e}")
         return float('inf')
 
-# ✅ Map each file to its first packet timestamp
+# Map each file to its first packet timestamp
 timestamped_files = [(get_first_timestamp(fp), fp) for fp in pcap_full_paths if os.path.exists(fp)]
 
-# ✅ Sort the files by timestamp
+# Sort the files by timestamp
 timestamped_files.sort()
 sorted_pcaps = [fp for _, fp in timestamped_files]
 
@@ -46,7 +46,7 @@ output_file = os.path.join(pcap_folder, 'merged_output.pcap').replace('\\', '/')
 merge_command = [mergecap_path, '-w', output_file] + sorted_pcaps
 
 # Show merge order
-print("\n🛠️ Merging files in the following order:")
+print("\n Merging files in the following order:")
 for file in sorted_pcaps:
     print("  -", file)
 
