@@ -113,5 +113,6 @@ The recommended workflow is:
 ## Citation
 Please cite the following in your reference.
 
-
-<pre> Jamali, A.F., 2025. A Framework for Scalable Dataset Generation and Deep Learning-Based IoT Device Identification: Redefining the Future Paradigm (Masters dissertation, Concordia University).</pre>
+```bash
+Jamali, A.F., 2025. A Framework for Scalable Dataset Generation and Deep Learning-Based IoT Device Identification: Redefining the Future Paradigm (Masters dissertation, Concordia University).
+```
